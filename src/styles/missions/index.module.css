@@ -1,0 +1,7 @@
+.titleContent p {
+  padding-bottom: 1.5rem;
+}
+
+.titleContent p:last-child {
+  padding-bottom: 0rem;
+}

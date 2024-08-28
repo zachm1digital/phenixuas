@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="utilities-pipeline-patrol-icon" transform="translate(1858 -7375)">
+    <g id="Ellipse_86" data-name="Ellipse 86" transform="translate(-1858 7375)" fill="#fff" stroke="#b9262c" stroke-width="1">
+      <circle cx="21" cy="21" r="21" stroke="none"/>
+      <circle cx="21" cy="21" r="20.5" fill="none"/>
+    </g>
+    <g id="Group_405" data-name="Group 405" transform="translate(-1850.82 7350.836)">
+      <g id="Group_406" data-name="Group 406" transform="translate(0 32.449)">
+        <path id="Path_913" data-name="Path 913" d="M27.467,26.933a3.467,3.467,0,1,1,3.467-3.467,3.471,3.471,0,0,1-3.467,3.467m0-6.067a2.6,2.6,0,1,0,2.6,2.6,2.6,2.6,0,0,0-2.6-2.6" transform="translate(-13.6 -11.333)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <rect id="Rectangle_235" data-name="Rectangle 235" width="3.091" height="1.03" transform="translate(12.364 11.902)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <rect id="Rectangle_236" data-name="Rectangle 236" width="1.03" height="3.091" transform="translate(13.395 10.872)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <rect id="Rectangle_237" data-name="Rectangle 237" width="7.213" height="1.03" transform="translate(0 22.206)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <rect id="Rectangle_238" data-name="Rectangle 238" width="7.213" height="1.03" transform="translate(20.607 0.568)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_914" data-name="Path 914" d="M2.867,41.267H2V39.533a6.073,6.073,0,0,1,6.067-6.067H21.933a.867.867,0,1,0,0-1.733H19.766a.433.433,0,0,1-.433-.433V30H20.2v.867h1.733a1.733,1.733,0,1,1,0,3.467H8.067a5.206,5.206,0,0,0-5.2,5.2Z" transform="translate(-1.133 -17)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_915" data-name="Path 915" d="M12.867,36.733H12V35a1.735,1.735,0,0,1,1.733-1.733H27.6a5.2,5.2,0,1,0,0-10.4H25.867v.867H25v-1.3A.433.433,0,0,1,25.433,22H27.6a6.067,6.067,0,1,1,0,12.133H13.733a.868.868,0,0,0-.867.867Z" transform="translate(-6.8 -12.467)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_916" data-name="Path 916" d="M16.333,11.267h-.867V10.4H13.733a1.733,1.733,0,1,1,0-3.467H27.6a5.206,5.206,0,0,0,5.2-5.2V0h.867V1.733A6.073,6.073,0,0,1,27.6,7.8H13.733a.867.867,0,0,0,0,1.733H15.9a.433.433,0,0,1,.433.433Z" transform="translate(-6.8)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_917" data-name="Path 917" d="M10.233,14.733H8.067a6.067,6.067,0,0,1,0-12.133H21.933a.868.868,0,0,0,.867-.867V0h.867V1.733a1.735,1.735,0,0,1-1.733,1.733H8.067a5.2,5.2,0,0,0,0,10.4H9.8V13h.867v1.3a.433.433,0,0,1-.433.433" transform="translate(-1.133)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+      </g>
+    </g>
+  </g>
+</svg>
