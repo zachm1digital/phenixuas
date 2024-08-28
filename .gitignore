@@ -39,3 +39,4 @@ yarn-error.log*
 *.tsbuildinfo
 
 node_modules
+package.json

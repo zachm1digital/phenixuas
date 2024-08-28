@@ -32,10 +32,10 @@ export function getHistories(): HistoryProps[] {
       description: (
         <>
           <p>
-            Phenix Solution’s Brian Riese President and CEO and Mark Zimmerman former CEO of Simplex
-            Aerospace beginning to work together to search out a Heavy-Lift UAS capable aircraft
-            already available in the marketplace. The goal is for the UAS to be able to meet the
-            needs of wildfire suppression and aerial application industries.
+            P Phenix Solution’s Brian Riese President and CEO and Mark Zimmerman former CEO of
+            Simplex Aerospace beginning to work together to search out a Heavy-Lift UAS capable
+            aircraft already available in the marketplace. The goal is for the UAS to be able to
+            meet the needs of wildfire suppression and aerial application industries.
           </p>
         </>
       ),
