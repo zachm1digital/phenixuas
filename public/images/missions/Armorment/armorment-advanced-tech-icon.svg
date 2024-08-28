@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_240" data-name="Rectangle 240" width="25.898" height="25.898" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+    </clipPath>
+  </defs>
+  <g id="armorment-advanced-tech-icon" transform="translate(901 -7284)">
+    <g id="Ellipse_81" data-name="Ellipse 81" transform="translate(-901 7284)" fill="#fff" stroke="#b9262c" stroke-width="1">
+      <circle cx="21" cy="21" r="21" stroke="none"/>
+      <circle cx="21" cy="21" r="20.5" fill="none"/>
+    </g>
+    <g id="Group_413" data-name="Group 413" transform="translate(-893 7292.051)">
+      <g id="Group_412" data-name="Group 412" clip-path="url(#clip-path)">
+        <path id="Path_935" data-name="Path 935" d="M22.045,24.089a2.045,2.045,0,1,1,2.045-2.045,2.047,2.047,0,0,1-2.045,2.045m0-3.271a1.227,1.227,0,1,0,1.227,1.227,1.228,1.228,0,0,0-1.227-1.227" transform="translate(-9.095 -9.095)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_936" data-name="Path 936" d="M17.952,24.9a6.952,6.952,0,1,1,3.248-13.1.409.409,0,1,1-.382.724,6.136,6.136,0,1,0,2.874,3.262.409.409,0,1,1,.766-.288,6.952,6.952,0,0,1-6.506,9.4" transform="translate(-5.002 -5.002)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_937" data-name="Path 937" d="M13.859,25.718A11.859,11.859,0,1,1,25.718,13.859,11.872,11.872,0,0,1,13.859,25.718m0-22.9A11.041,11.041,0,1,0,24.9,13.859,11.053,11.053,0,0,0,13.859,2.818" transform="translate(-0.91 -0.91)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_938" data-name="Path 938" d="M23.409,45A.409.409,0,0,1,23,44.59V42.409a.409.409,0,1,1,.818,0V44.59a.409.409,0,0,1-.409.409" transform="translate(-10.46 -19.1)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_939" data-name="Path 939" d="M44.59,23.818H42.409a.409.409,0,1,1,0-.818H44.59a.409.409,0,1,1,0,.818" transform="translate(-19.1 -10.46)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_940" data-name="Path 940" d="M2.59,23.818H.409a.409.409,0,1,1,0-.818H2.59a.409.409,0,1,1,0,.818" transform="translate(0 -10.46)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_941" data-name="Path 941" d="M23.409,3A.409.409,0,0,1,23,2.59V.409a.409.409,0,1,1,.818,0V2.59A.409.409,0,0,1,23.409,3" transform="translate(-10.46)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_942" data-name="Path 942" d="M25.49,25.9H23.854a.409.409,0,0,1,0-.818h1.227V23.854a.409.409,0,0,1,.818,0V25.49a.409.409,0,0,1-.409.409m-23.445,0H.409A.409.409,0,0,1,0,25.49V23.854a.409.409,0,0,1,.818,0v1.227H2.045a.409.409,0,0,1,0,.818M25.49,2.454a.409.409,0,0,1-.409-.409V.818H23.854a.409.409,0,0,1,0-.818H25.49A.409.409,0,0,1,25.9.409V2.045a.409.409,0,0,1-.409.409m-25.081,0A.409.409,0,0,1,0,2.045V.409A.409.409,0,0,1,.409,0H2.045a.409.409,0,1,1,0,.818H.818V2.045a.409.409,0,0,1-.409.409" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+        <path id="Path_943" data-name="Path 943" d="M31.045,16.089a.409.409,0,0,1-.409-.409V14.454H29.409a.409.409,0,1,1,0-.818h1.227V12.409a.409.409,0,1,1,.818,0v1.227H32.68a.409.409,0,1,1,0,.818H31.454V15.68a.409.409,0,0,1-.409.409" transform="translate(-13.188 -5.457)" fill="#b9262c" stroke="#b9262c" stroke-width="0.25"/>
+      </g>
+    </g>
+  </g>
+</svg>

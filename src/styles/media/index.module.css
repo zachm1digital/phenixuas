@@ -1,0 +1,25 @@
+.richContent {
+  --rich-mb: 2rem;
+}
+
+.richContent a {
+  text-decoration: none;
+  color: var(--color-text-primary);
+}
+
+.richContent a:hover {
+  color: red;
+}
+
+.richContent p {
+  margin-bottom: var(--rich-mb);
+}
+
+.richContent > strong {
+  display: inline-block;
+  margin-bottom: var(--rich-mb);
+}
+
+.richContent hr {
+  margin-bottom: var(--rich-mb);
+}

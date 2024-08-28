@@ -1,0 +1,48 @@
+[data-role='media-content'] h1,
+[data-role='media-content'] h2,
+[data-role='media-content'] h3,
+[data-role='media-content'] h4,
+[data-role='media-content'] h5,
+[data-role='media-content'] h6 {
+  font-weight: bold;
+}
+
+[data-role='media-content'] h1 {
+  font-size: 2.125rem;
+}
+
+[data-role='media-content'] h2 {
+  font-size: 1.875rem;
+}
+
+[data-role='media-content'] h3 {
+  font-size: 1.5rem;
+}
+
+[data-role='media-content'] h4 {
+  font-size: 1.25rem;
+}
+
+[data-role='media-content'] h5 {
+  font-size: 1.125rem;
+}
+
+[data-role='media-content'] h6 {
+  font-size: 1rem;
+}
+
+[data-role='media-content'] ul,
+[data-role='media-content'] ol {
+  list-style-position: outside;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+}
+
+[data-role='media-content'] ul {
+  list-style-type: disc;
+}
+
+[data-role='media-content'] ol {
+  list-style-type: decimal;
+}

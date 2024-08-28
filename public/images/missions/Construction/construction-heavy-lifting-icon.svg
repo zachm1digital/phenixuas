@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="construction-heavy-lifting-icon" transform="translate(3761 -7306)">
+    <g id="Ellipse_93" data-name="Ellipse 93" transform="translate(-3761 7306)" fill="#fff" stroke="#b9262c" stroke-width="1">
+      <circle cx="21" cy="21" r="21" stroke="none"/>
+      <circle cx="21" cy="21" r="20.5" fill="none"/>
+    </g>
+    <g id="Group_400" data-name="Group 400" transform="translate(-3752.5 7311.5)">
+      <g id="Group_401" data-name="Group 401" transform="translate(2.5 2.5)">
+        <path id="Path_903" data-name="Path 903" d="M15.468,2.5V5.039l2.678,2.54H28.857l2.678-2.54V2.5Z" transform="translate(-12.891 -2.5)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_107" data-name="Line 107" x1="4.5" y2="6.046" transform="translate(4.634 10.784)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_904" data-name="Path 904" d="M10.173,35.282v1.037a4.354,4.354,0,0,0,2.8,4.049,4.48,4.48,0,1,1-5.744,5.6h0a2.148,2.148,0,0,1-.018-1.444A3.357,3.357,0,0,0,6.1,41.04c-.912-.846-2.833-1.367-3.484-.814S4.2,41.735,4.377,42.993c.176,1.282-1.036,1.093-1.082,3.167a9.169,9.169,0,1,0,14.551-7.436,4.331,4.331,0,0,1-1.878-3.442" transform="translate(-2.5 -28.767)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_905" data-name="Path 905" d="M32.129,89.989A7,7,0,0,1,18.3,91.58" transform="translate(-15.161 -72.602)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Ellipse_95" data-name="Ellipse 95" cx="1.019" cy="1.019" r="1.019" transform="translate(9.763 7.552)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_108" data-name="Line 108" x2="9.187" transform="translate(2.577 2.539)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_109" data-name="Line 109" x2="0.994" transform="translate(12.758 2.539)" fill="none" stroke="#b9262c" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
