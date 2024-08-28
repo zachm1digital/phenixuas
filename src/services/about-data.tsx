@@ -19,7 +19,7 @@ export function getHistories(): HistoryProps[] {
       title: '',
       description: (
         <>
-          <p>2011 Phenix Solutions is founded by Brian Riese in West Linn, OR</p>
+          <p>2011 P Phenix Solutions is founded by Brian Riese in West Linn, OR</p>
         </>
       ),
       image: '/images/history-images/2011.png',
