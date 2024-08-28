@@ -1,0 +1,11 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./src/styles/TabSection.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.TabSection_tabLabel__WUG4J {
+  border-bottom: solid 2px transparent;
+}
+
+.TabSection_active__zbU__ {
+  border-bottom-color: var(--color-primary);
+}
+
