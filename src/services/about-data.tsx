@@ -184,7 +184,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     {
       id: crypto.randomUUID(),
       name: 'Mark Zimmerman',
-      position: 'Chief Operating Officer & Chief Financial Officer',
+      position: 'Chief Financial Officer',
       image: '/images/about/persons/Markl Zimmerman_PNG.webp',
       // phone: '555-555-5555',
       email: 'Mark@phenixuas.com',
@@ -213,7 +213,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     {
       id: crypto.randomUUID(),
       name: 'Daniel Wright',
-      position: 'Airworthiness & Certification',
+      position: 'Chief Operational Officer / Airworthiness & Certification',
       image: '/images/about/persons/Daniel Wright.webp',
       // phone: '555-555-5555',
       email: 'Dan@phenixuas.com',
@@ -237,23 +237,77 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     },
     {
       id: crypto.randomUUID(),
-      name: 'Larry Lichtenberger',
-      position: 'Flight Operations',
-      image: '/images/about/persons/Larry Lichtenberger2.png',
+      name: 'Sarah Riese',
+      position: 'Assistant Corporate Secretary',
+      image: '/images/about/persons/Sarah Riese.jpg',
       // phone: '555-555-5555',
-      email: 'Larry@phenixuas.com',
+      email: 'test@phenixuas.com',
       content: (
         <>
           <p>
-            Mr. Lichtenberger is a private pilot, 107 pilot, and flight instructor. Prior to joining
-            Phenix was EVP of Simplex Aerospace responsible for worldwide business development,
-            sales, product portfolio management, and customer service. In addition, Larry has sold
-            avionics for L3, developed and certified new aviation technology for UPS and owned a
-            private electronics company
+          With a rich career spanning over two decades in healthcare, Sarah brings a unique blend of
+          clinical expertise and administrative acumen to her role as Assistant Corporate Secretary at
+          Phenix Solutions.
+          A retired Registered Nurse, Sarah initially dedicated her career to patient care, providing
+          compassionate and skilled nursing services across various healthcare settings, the ICU and
+          homebase primary care to homebound patients. Her commitment to excellence in nursing was
+          marked by her hands-on experience in patient management, interdisciplinary collaboration, and
+          clinical education.
+          With her meticulous attention to detail and organizational skills Mrs. Riese stepped into the role
+          of managing the accounting of Phenix Solutions when it was founded in 2011 by Mr. Brian Riese
+          while still performing her role as an ICU nurse. With the growth of Phenix Solutions and the
+          transition into an aircraft manufacturing company Mrs. Riese retired from her nursing career
+          while continuing her current responsibilities in Phenix Solutions as Assistant Corporate
+          Secretary for Phenix Solutions. As Assistant Corporate Secretary, she plays a pivotal role in
+          supporting the company’s board of directors and executive team. Her responsibilities include
+          managing board meetings, ensuring compliance with corporate policies, and maintaining
+          accurate records.
+          Sarah holds a degree in Nursing from Oregon Health Science University and a degree in Sports
+          Medicine from University of Oregon and has undergone training in accounting from University
+          of Phoenix. Her diverse background and dedication to both healthcare and corporate
+          administration make her an invaluable asset to Phenix Solutions where she contributes to the
+          smooth operation and strategic oversight of the company’s governance framework.
           </p>
         </>
       )
     },
+    {
+      id: crypto.randomUUID(),
+      name: 'David Kruithoff',
+      position: 'Director of Engineering',
+      image: '/images/about/persons/David Kruithoff2.png',
+      // phone: '555-555-5555',
+      email: 'David@phenixuas.com',
+      content: (
+        <>
+          <p>
+            Mr. Kruithoff was the R&D design engineering for Simplex Aerospace for the past ten
+            years developing and designing new products and technologies. David is co-patent holder
+            of the SkyCannon High Rise Firefighting System. Prior to joining Simplex, David was a
+            design engineer for LifePort, developing medical transport aerial mission equipment.
+          </p>
+        </>
+      )
+    },
+    // {
+    //   id: crypto.randomUUID(),
+    //   name: 'Larry Lichtenberger',
+    //   position: 'Flight Operations',
+    //   image: '/images/about/persons/Larry Lichtenberger2.png',
+    //   // phone: '555-555-5555',
+    //   email: 'Larry@phenixuas.com',
+    //   content: (
+    //     <>
+    //       <p>
+    //         Mr. Lichtenberger is a private pilot, 107 pilot, and flight instructor. Prior to joining
+    //         Phenix was EVP of Simplex Aerospace responsible for worldwide business development,
+    //         sales, product portfolio management, and customer service. In addition, Larry has sold
+    //         avionics for L3, developed and certified new aviation technology for UPS and owned a
+    //         private electronics company
+    //       </p>
+    //     </>
+    //   )
+    // },
     // {
     //   id: crypto.randomUUID(),
     //   name: 'Paul Comtois',
@@ -297,58 +351,38 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     },
     {
       id: crypto.randomUUID(),
-      name: 'David Kruithoff',
-      position: 'Director of Engineering',
-      image: '/images/about/persons/David Kruithoff.png',
+      name: 'Vince Habeck',
+      position: 'Director of Programs',
+      image: '/images/about/persons/Vince_Habeck_1_optimized.png',
       // phone: '555-555-5555',
-      email: 'David@phenixuas.com',
+      email: 'test@phenixuas.com.com',
       content: (
         <>
           <p>
-            Mr. Kruithoff was the R&D design engineering for Simplex Aerospace for the past ten
-            years developing and designing new products and technologies. David is co-patent holder
-            of the SkyCannon High Rise Firefighting System. Prior to joining Simplex, David was a
-            design engineer for LifePort, developing medical transport aerial mission equipment.
-          </p>
-        </>
-      )
-    },
-    {
-      id: crypto.randomUUID(),
-      name: 'Santiago Matallana',
-      position: 'Senior Programs Engineer',
-      image: '/images/about/persons/Santiago.jpg',
-      // phone: '555-555-5555',
-      email: 'Santiago@phenixuas.com',
-      content: (
-        <>
-          <p>
-            Santiago has 20+ years in the aerospace industry; he has been involved in various
-            aspects of aircraft design, development, and testing. He is a highly experienced and
-            multidisciplinary Senior engineer with a robust software, systems, mechanical,
-            electrical, and aerospace engineering background. He has contributed to and worked
-            successfully on countless projects throughout his aerospace career, utilizing his skills
-            in electrical, mechanical, fluid dynamics, controls, aerodynamics, CFD, design,
-            analysis, systems, etc. With multidisciplinary integration engineering skills and
-            leadership of our Ultra 2XL program, Santiago is a vital team member for Phenix.
-          </p>
-        </>
-      )
-    },
-    {
-      id: crypto.randomUUID(),
-      name: 'Jonathan Berkley',
-      position: 'General Manager',
-      image: '/images/about/persons/Jonathan Berkley.jpg',
-      // phone: '555-555-5555',
-      email: 'Jonathan@phenixuas.com',
-      content: (
-        <>
-          <p>
-            Mr.Berkley served 12 years in the Oregon National Guard where he worked closely with
-            Brian Riese. He has a background in Government Accounting and ERP setup and
-            implementation. Jonathan was an employee of the original Phenix company and has owned
-            and operated his own construction company.
+          Vince Habeck is a dynamic leader with a proven track record of success in both military
+          and corporate environments. With extensive experience in program management,
+          strategic planning, and team leadership, Vince has consistently demonstrated his ability
+          to guide teams through complex operational challenges while fostering a culture of
+          continuous improvement and innovation. He excels at communicating effectively across
+          all organizational levels, ensuring alignment between senior leaders and junior team
+          members. As an experienced public speaker and mentor, Vince is passionate about
+          developing talent and maximizing team performance.
+
+          Currently serving as the Director of Programs at Phenix Solutions, Vince is responsible
+          for the strategic direction and management of aviation programs, with a focus on
+          Unmanned Aircraft Systems (UAS) technology. His role involves overseeing key
+          initiatives that drive growth and innovation in the aviation industry. Prior to this, Vince
+          held several leadership positions in the Oregon Army National Guard, where he
+          authored comprehensive training plans, managed large-scale operations, and led a 40-
+          man recruiting company. His military career is marked by his ability to execute complex
+          plans and manage substantial budgets, all while achieving significant organizational
+          goals.
+
+          Vince holds a Master of Science in Organizational Leadership from Central Michigan
+          University and a Bachelor of Science in Business Administration (Marketing) from
+          Southern Oregon University. His diverse background and extensive leadership
+          experience make him a valuable asset in any organization, particularly in roles that
+          require strategic planning, team development, and operational excellence.
           </p>
         </>
       )
@@ -373,6 +407,51 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     },
     {
       id: crypto.randomUUID(),
+      name: 'Jonathan Berkley',
+      position: 'General Manager',
+      image: '/images/about/persons/Jonathan Berkley.jpg',
+      // phone: '555-555-5555',
+      email: 'Jonathan@phenixuas.com',
+      content: (
+        <>
+          <p>
+            Mr.Berkley served 12 years in the Oregon National Guard where he worked closely with
+            Brian Riese. He has a background in Government Accounting and ERP setup and
+            implementation. Jonathan was an employee of the original Phenix company and has owned
+            and operated his own construction company.
+          </p>
+        </>
+      )
+    },
+    {
+      id: crypto.randomUUID(),
+      name: 'Ephraim Nowak',
+      position: 'System Engineer Manager',
+      image: '/images/about/persons/Ephraim Picture.jpg',
+      //phone: '555-555-5555',
+      email: 'email@test.com',
+      content: (
+        <>
+          <p>
+          Mr. Nowak brings a wealth of large UAS experience to the Phenix Solutions team. In his
+          role as Systems Engineering Manager, Mr. Nowak uses his interdisciplinary background
+          in software, electrical, and mechanical engineering to take new ideas from concept
+          through prototype, and into production.
+          Before joining Phenix Solutions, Ephraim led engineering teams on multiple successful
+          large rotary-wing UAS development programs. He has also developed an aerial wildfire
+          mapping system for a government customer, a novel cockpit video recorder for small
+          aircraft, and is a former Search and Rescue EMT, Search Manager, and Rope /
+          Swiftwater / Avalanche rescue technician.
+          Mr. Nowak holds a Bachelor’s degree in Computer Science and a Master’s degree in
+          Electrical Engineering. His background in engineering leadership and boots-on-the-
+          ground operational experience makes him a great fit for developing game-changing UAS
+          technologies for civilian and defense applications.
+          </p>
+        </>
+      )
+    },
+    {
+      id: crypto.randomUUID(),
       name: 'Jordan McGovern',
       position: 'Publications Manager',
       image: '/images/about/persons/Jordan McGovern.jpg',
@@ -387,6 +466,28 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
             levels and ensures compliance with industry standards. He is always focused on our
             customers, so delivering high-quality documentation to support them is a top priority to
             keep them flying.
+          </p>
+        </>
+      )
+    },
+    {
+      id: crypto.randomUUID(),
+      name: 'Santiago Matallana',
+      position: 'Senior Programs Engineer',
+      image: '/images/about/persons/Santiago3.jpg',
+      // phone: '555-555-5555',
+      email: 'Santiago@phenixuas.com',
+      content: (
+        <>
+          <p>
+            Santiago has 20+ years in the aerospace industry; he has been involved in various
+            aspects of aircraft design, development, and testing. He is a highly experienced and
+            multidisciplinary Senior engineer with a robust software, systems, mechanical,
+            electrical, and aerospace engineering background. He has contributed to and worked
+            successfully on countless projects throughout his aerospace career, utilizing his skills
+            in electrical, mechanical, fluid dynamics, controls, aerodynamics, CFD, design,
+            analysis, systems, etc. With multidisciplinary integration engineering skills and
+            leadership of our Ultra 2XL program, Santiago is a vital team member for Phenix.
           </p>
         </>
       )
