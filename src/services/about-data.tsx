@@ -308,29 +308,6 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     //     </>
     //   )
     // },
-    // {
-    //   id: crypto.randomUUID(),
-    //   name: 'Paul Comtois',
-    //   position: 'Flight Instructor & Training',
-    //   image: '/images/about/persons/Paul Comtois.png',
-    //   phone: '555-555-5555',
-    //   email: 'email@test.com',
-    //   content: (
-    //     <>
-    //       <p>
-    //         Mr. Comtois has +30 years of experience in Aviation Operations and Safety, Specializing
-    //         in Pilot Training. A retired USAF Colonel and Command Pilot with 3,000 hours in fighter,
-    //         trainer, and heavy aircraft, he has held leadership positions as the 111th Fighter Wing
-    //         Commander and served in the Pennsylvania Air National Guard (ANG). Paul was instrumental
-    //         in establishing the first Joint Interagency Installation in the United States as well as
-    //         the National Collaboration Development Center, a key United States intelligence,
-    //         national security, and homeland security training facility. Paul developed and patented
-    //         a simulation design enhancing pilot training program intended to combat Loss of Control
-    //         In-flight (LOC-I).
-    //       </p>
-    //     </>
-    //   )
-    // },
     {
       id: crypto.randomUUID(),
       name: 'Mason Comtois',
