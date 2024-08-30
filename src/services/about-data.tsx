@@ -241,7 +241,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
       position: 'Assistant Corporate Secretary',
       image: '/images/about/persons/Sarah Riese.jpg',
       // phone: '555-555-5555',
-      email: 'test@phenixuas.com',
+      email: 'sarah@phenixuas.com',
       content: (
         <>
           <p>
@@ -355,7 +355,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
       position: 'Director of Programs',
       image: '/images/about/persons/Vince_Habeck_1_optimized.png',
       // phone: '555-555-5555',
-      email: 'test@phenixuas.com.com',
+      email: 'vincent@phenixuas.com',
       content: (
         <>
           <p>
@@ -429,7 +429,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
       position: 'System Engineer Manager',
       image: '/images/about/persons/Ephraim Picture.jpg',
       //phone: '555-555-5555',
-      email: 'email@test.com',
+      email: 'ephraim@phenixuas.com',
       content: (
         <>
           <p>
