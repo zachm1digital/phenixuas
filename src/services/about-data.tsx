@@ -299,7 +299,7 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
     //   content: (
     //     <>
     //       <p>
-    //         Mr. Lichtenberger is a private pilot, 107 pilot, and flight instructor. Prior to joining
+    //         Mr.. Lichtenberger is a private pilot, 107 pilot, and flight instructor. Prior to joining
     //         Phenix was EVP of Simplex Aerospace responsible for worldwide business development,
     //         sales, product portfolio management, and customer service. In addition, Larry has sold
     //         avionics for L3, developed and certified new aviation technology for UPS and owned a
