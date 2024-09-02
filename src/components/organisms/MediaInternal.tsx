@@ -16,7 +16,6 @@ import { cn } from '@/lib/utils';
 async function getMedia({ slug }: { slug: string }): Promise<MediaItemProps> {
   const client = createClient('phenix-mh');
   const item = await client.getByUID('media_item', slug);
-
   const _itm: MediaItemProps = {
     id: item.uid,
     slug: item.uid,
@@ -24,6 +23,7 @@ async function getMedia({ slug }: { slug: string }): Promise<MediaItemProps> {
     subheading: item.data.subheading as string,
     content: item.data.content,
     image: item.data.image.url as string,
+    video: item.data.video.url as string,
     date: (item.data.date as string) || item.first_publication_date
   };
 
@@ -92,6 +92,13 @@ export default async function MediaInternal() {
               alt="sample-blog-img-internal"
             />
           </div>
+          { media?.video && <div
+          className="mt-12 font-primary text-[0.9375rem] font-bold uppercase text-phenix-gray001 md:px-9"
+          >
+          <video width="100%" playsInline autoPlay muted loop controls>
+            <source src={media.video} type="video/mp4" />
+          </video>
+          </div>}
           <div
             data-role="media-date"
             className="mt-8 font-primary text-[0.9375rem] font-bold uppercase text-phenix-gray001 md:px-9"

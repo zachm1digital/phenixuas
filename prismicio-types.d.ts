@@ -19,8 +19,7 @@ interface MediaDocumentData {
    * - **Tab**: Main
    * - **Documentation**: https://prismic.io/docs/field#slices
    */
-  slices: prismic.SliceZone<MediaDocumentDataSlicesSlice>;
-  /**
+  slices: prismic.SliceZone<MediaDocumentDataSlicesSlice> /**
    * Meta Description field in *Media*
    *
    * - **Field Type**: Text
@@ -28,7 +27,7 @@ interface MediaDocumentData {
    * - **API ID Path**: media.meta_description
    * - **Tab**: SEO & Metadata
    * - **Documentation**: https://prismic.io/docs/field#key-text
-   */
+   */;
   meta_description: prismic.KeyTextField;
 
   /**
@@ -140,6 +139,17 @@ interface MediaItemDocumentData {
    * - **Documentation**: https://prismic.io/docs/field#image
    */
   image: prismic.ImageField<never>;
+
+  /**
+   * video field in *Media Item*
+   *
+   * - **Field Type**: Link to Media
+   * - **Placeholder**: *None*
+   * - **API ID Path**: media_item.video
+   * - **Tab**: Main
+   * - **Documentation**: https://prismic.io/docs/field#link-content-relationship
+   */
+  video: prismic.LinkToMediaField;
 }
 
 /**
