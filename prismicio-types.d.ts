@@ -149,7 +149,7 @@ interface MediaItemDocumentData {
    * - **Tab**: Main
    * - **Documentation**: https://prismic.io/docs/field#link-content-relationship
    */
-  video: prismic.LinkToMediaField;
+  video: prismic.LinkToMediaField.url;
 }
 
 /**

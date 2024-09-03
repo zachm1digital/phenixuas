@@ -13,7 +13,7 @@ export type MediaItemProps = {
   date: string;
   slug: string;
   image: string;
-  video: string;
+  video?: string;
   category?: string;
 } & Omit<HTMLAttributes<HTMLDivElement>, 'content'>;
 
