@@ -41,8 +41,7 @@ export default function MediaItem({
       )}
       {...props}
       onClick={() => {
-        //window.location.href = href;
-        window.location.replace(href)
+        window.location.href = href;
       }}
     >
       <div
