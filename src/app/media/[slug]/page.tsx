@@ -24,6 +24,7 @@ async function getMedia({ slug }: { slug: string }): Promise<MediaItemProps | nu
       subheading: item.data.subheading as string,
       content: item.data.content,
       image: item.data.image.url as string,
+      video: item.data?.video?.url || "" as string,
       date: (item.data.date as string) || item.first_publication_date
     };
 

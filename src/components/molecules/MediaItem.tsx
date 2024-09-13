@@ -13,6 +13,7 @@ export type MediaItemProps = {
   date: string;
   slug: string;
   image: string;
+  video?: string;
   category?: string;
 } & Omit<HTMLAttributes<HTMLDivElement>, 'content'>;
 
@@ -23,13 +24,13 @@ export default function MediaItem({
   title,
   content,
   image,
+  video,
   date,
   slug,
   className,
   ...props
 }: MediaItemProps) {
   const href = `/media/${encodeURIComponent(slug)}`;
-
   return (
     <div
       data-id={id}
