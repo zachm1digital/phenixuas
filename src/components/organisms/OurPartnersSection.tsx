@@ -18,7 +18,7 @@ const partnerLogos = [
   {
     name: 'Agility Prime',
     image: '/images/partners/agility-prime.png',
-    width: 220,
+    width: 200,
     height: 40
   },
   {
@@ -36,7 +36,13 @@ const partnerLogos = [
   {
     name: 'NWUAV',
     image: '/images/partners/NWUAV.png',
-    width: 198,
+    width: 165,
+    height: 71
+  },
+  {
+    name: 'Eagle',
+    image: '/images/partners/eagle.png',
+    width: 148,
     height: 71
   }
 ];
