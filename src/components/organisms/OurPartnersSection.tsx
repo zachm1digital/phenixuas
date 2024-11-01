@@ -4,10 +4,16 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 const partnerLogos = [
   {
+    name: 'Eagle',
+    image: '/images/partners/eagle.png',
+    width: 180,
+    height: 80
+  },
+  {
     name: 'rolls-royce',
     image: '/images/partners/rolls-royce.png',
     width: 46,
-    height: 60
+    height: 65
   },
   {
     name: 'Acuasi',
@@ -36,7 +42,7 @@ const partnerLogos = [
   {
     name: 'NWUAV',
     image: '/images/partners/NWUAV.png',
-    width: 198,
+    width: 188,
     height: 71
   }
 ];
@@ -45,7 +51,7 @@ export default function OurPartnersSection() {
   return (
     <div
       id="partners"
-      className="flex min-h-[26rem] flex-row items-center px-20 font-secondary lg:min-h-0 lg:px-20 lg:pb-[4.5rem] lg:pt-16 md:px-9"
+      className="flex min-h-[26rem] sm:min-h-[33rem] flex-row items-center px-20 font-secondary lg:min-h-0 lg:px-20 lg:pb-[4.5rem] lg:pt-16 md:px-9"
     >
       <div className="mx-auto flex w-full max-w-[72.5rem] flex-col gap-[3.25rem]">
         <AnimationOnScroll
@@ -60,8 +66,8 @@ export default function OurPartnersSection() {
         <div
           data-role="logo-container"
           className="flex flex-row flex-wrap items-end justify-between text-[1px]
-                      xl:text-[0.068vw] lg:gap-0 sm:max-h-[14rem] sm:flex-col sm:flex-wrap 
-                      sm:items-center sm:justify-end sm:gap-y-[3.25rem] sm:text-[0.71px] xsm:text-[0.15vw]"
+                      xl:text-[0.068vw] lg:gap-0 sm:max-h-[14rem]  sm:flex-wrap 
+                      sm:items-center sm:justify-around sm:gap-[3.25rem] sm:text-[0.71px] xsm:text-[0.15vw]"
         >
           {partnerLogos.map((logo, index: number) => (
             <AnimationOnScroll
