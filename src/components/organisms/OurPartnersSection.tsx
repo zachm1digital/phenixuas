@@ -4,6 +4,12 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 const partnerLogos = [
   {
+    name: 'Eagle',
+    image: '/images/partners/eagle.png',
+    width: 165,
+    height: 81
+  },
+  {
     name: 'rolls-royce',
     image: '/images/partners/rolls-royce.png',
     width: 46,
@@ -37,12 +43,6 @@ const partnerLogos = [
     name: 'NWUAV',
     image: '/images/partners/NWUAV.png',
     width: 165,
-    height: 71
-  },
-  {
-    name: 'Eagle',
-    image: '/images/partners/eagle.png',
-    width: 148,
     height: 71
   }
 ];
