@@ -364,24 +364,24 @@ export default function getLeadershipList(): LeadershipSectionItem[] {
         </>
       )
     },
-    {
-      id: crypto.randomUUID(),
-      name: 'Casey Zimmerman',
-      position: 'Director of Business Development & Sales',
-      image: '/images/about/persons/Casey Zimmerman.png',
-      // phone: '555-555-5555',
-      email: 'Casey@phenixuas.com',
-      content: (
-        <>
-          <p>
-            Mr. Zimmerman is an alumnus of Simplex Aerospace where he was Director of Regional Sales
-            for North & South America. Mr. Zimmerman selected, vetted, and managed network of
-            country representatives as well as was directly involved in product sales and customer
-            service. Casey was instrumental in commercialization of new products within his region.
-          </p>
-        </>
-      )
-    },
+    // {
+    //   id: crypto.randomUUID(),
+    //   name: 'Casey Zimmerman',
+    //   position: 'Director of Business Development & Sales',
+    //   image: '/images/about/persons/Casey Zimmerman.png',
+    //   // phone: '555-555-5555',
+    //   email: 'Casey@phenixuas.com',
+    //   content: (
+    //     <>
+    //       <p>
+    //         Mr. Zimmerman is an alumnus of Simplex Aerospace where he was Director of Regional Sales
+    //         for North & South America. Mr. Zimmerman selected, vetted, and managed network of
+    //         country representatives as well as was directly involved in product sales and customer
+    //         service. Casey was instrumental in commercialization of new products within his region.
+    //       </p>
+    //     </>
+    //   )
+    // },
     {
       id: crypto.randomUUID(),
       name: 'Jonathan Berkley',
