@@ -18,7 +18,7 @@ const ContactItem = ({ title, phone, email, ...props }: ContactItemProps) => (
     <h2 className="mb-6 text-[1.625rem] leading-[1] lg:mb-[1.6875rem] lg:text-[1.4375rem] md:text-[1.5625rem]">
       {title}
     </h2>
-    {phone && <div className="[&_a]:hover:text-phenix-primary">{phone}</div>}
+    {/* {phone && <div className="[&_a]:hover:text-phenix-primary">{phone}</div>} */}
     {email && <div className="[&_a]:hover:text-phenix-primary">{email}</div>}
   </div>
 );
@@ -86,7 +86,7 @@ export default function ContactSection() {
               />
               <ContactItem
                 title="Careers"
-                email={<Link href="mailto:hr@phenixuas.com">hr@phenixuas.com</Link>}
+                email={<Link href="mailto:huumanresources@phenixuas.com">huumanresources@phenixuas.com</Link>}
               />
             </AnimationOnScroll>
           </div>
