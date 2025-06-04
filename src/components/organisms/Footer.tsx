@@ -112,7 +112,8 @@ export default function Footer() {
             ].join('\n')}
           </p>
           <p className="mt-9">
-            <Link href="mailto:info@phenixuas.com">info@phenixuas.com</Link> |{' '}
+            <Link href="mailto:info@phenixuas.com">info@phenixuas.com</Link> 
+            {/* |{' '} */}
             {/* <Link href="tel:503-896-9225">503-896-9225</Link> */}
           </p>
         </div>
