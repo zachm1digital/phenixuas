@@ -59,13 +59,13 @@ export default function LocationSection() {
             }
             label={<Link href="mailto:info@phenixuas.com">info@phenixuas.com</Link>}
           />
-          <LocationIconLabel
+          {/* <LocationIconLabel
             icon={
               <Image src="/images/contact/phone-icon.svg" alt="phone-icon" width={14} height={14} />
             }
             label={<Link href="tel:503-896-9225">503-896-9225</Link>}
             className="mt-0"
-          />
+          /> */}
         </div>
       </div>
     </div>
