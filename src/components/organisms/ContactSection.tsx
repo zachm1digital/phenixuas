@@ -86,7 +86,7 @@ export default function ContactSection() {
               />
               <ContactItem
                 title="Careers"
-                email={<Link href="mailto:huumanresources@phenixuas.com">huumanresources@phenixuas.com</Link>}
+                email={<Link href="mailto:huumanresources@phenixuas.com">humanresources@phenixuas.com</Link>}
               />
             </AnimationOnScroll>
           </div>
