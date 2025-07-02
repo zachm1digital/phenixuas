@@ -79,11 +79,11 @@ export default function ContactSection() {
                 phone={<Link href="tel:503-896-9225">503-896-9225</Link>}
                 email={<Link href="mailto:info@phenixuas.com">info@phenixuas.com</Link>}
               />
-              <ContactItem
+              {/* <ContactItem
                 title="AOG Support Line (24/7)"
                 phone={<Link href="tel:503-896-9225">503-896-9225</Link>}
                 email={<Link href="mailto:support@phenixuas.com">support@phenixuas.com</Link>}
-              />
+              /> */}
               <ContactItem
                 title="Careers"
                 email={<Link href="mailto:huumanresources@phenixuas.com">humanresources@phenixuas.com</Link>}
